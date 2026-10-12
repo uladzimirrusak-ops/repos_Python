@@ -1,5 +1,5 @@
 def test_smoke_ok():
-    assert 1 + 1 == 2
+    assert 1 + 12 == 13
 
 
 def test_smoke_fail_example():
